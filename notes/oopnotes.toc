@@ -1,0 +1,4 @@
+\babel@toc {danish}{}
+\contentsline {section}{\numberline {1}Intro - 3. september}{3}% 
+\contentsline {paragraph}{Evaluering}{3}% 
+\contentsline {paragraph}{Objektorienteret programmering}{3}% 
